@@ -2,7 +2,7 @@
 
 * 🧑‍💻 Student @ Cornell Tech. Main interests: CS, Machine Learning, Software Development
 * ⚙ I have fun with: .py, .pkl, .c, .cpp, .cs, .h5, .json, .js, .html, .css.
-* 👷🏗️ Some stuff I have built: [portfolio](https://portego00.github.io/PedroOrtego/), [MiniTorch](https://gitfront.io/r/Portego-00/S9eB8LxGDsBE/Minitorch/), [Music Generation using AI](https://colab.research.google.com/drive/1THLRGsQQI4nF3aWHdn7etBdZRwzL5YZW?usp=sharing), [VR design application](https://drive.google.com/file/d/1xPwdKtijo5vENhsncgywvTjTdMWh5Fcu/view).
+* 👷🏗️ Some stuff I have built: [portfolio](https://portego.vercel.app/), [MiniTorch](https://gitfront.io/r/Portego-00/S9eB8LxGDsBE/Minitorch/), [Music Generation using AI](https://colab.research.google.com/drive/1THLRGsQQI4nF3aWHdn7etBdZRwzL5YZW?usp=sharing), [VR design application](https://drive.google.com/file/d/1xPwdKtijo5vENhsncgywvTjTdMWh5Fcu/view).
 <!--
 **Portego-00/Portego-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
