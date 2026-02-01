@@ -5,7 +5,6 @@ I'm a **Software Engineer** with experience as a **founder and technical lead**,
 - 📱 Specialized in **React Native** (Expo, ejected) and **Next.js**
 - 🧠 Strong product mindset: performance, UX, reliability, and real-world impact
 - 🚀 Comfortable owning features from architecture to production releases
-- 🌍 Experience working with international teams (US & EU)
 
 #### 🛠 Tech I work with
 TypeScript · React Native · Next.js · Node.js · Go  
