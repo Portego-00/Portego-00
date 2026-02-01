@@ -1,19 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Pedro
 
-* 🧑‍💻 Student @ Cornell Tech. Main interests: CS, Machine Learning, Software Development
-* ⚙ I have fun with: .py, .pkl, .c, .cpp, .cs, .h5, .json, .js, .html, .css.
-* 👷🏗️ Some stuff I have built: [portfolio](https://portego.vercel.app/), [MiniTorch](https://gitfront.io/r/Portego-00/S9eB8LxGDsBE/Minitorch/), [Music Generation using AI](https://colab.research.google.com/drive/1THLRGsQQI4nF3aWHdn7etBdZRwzL5YZW?usp=sharing), [VR design application](https://drive.google.com/file/d/1xPwdKtijo5vENhsncgywvTjTdMWh5Fcu/view).
-<!--
-**Portego-00/Portego-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with experience as a **founder and technical lead**, focused on building **production-grade mobile and web applications** from end to end.
 
-Here are some ideas to get you started:
+- 📱 Specialized in **React Native** (Expo, ejected) and **Next.js**
+- 🧠 Strong product mindset: performance, UX, reliability, and real-world impact
+- 🚀 Comfortable owning features from architecture to production releases
+- 🌍 Experience working with international teams (US & EU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech I work with
+TypeScript · React Native · Next.js · Node.js · Go  
+Mobile architecture · Frontend performance · API integration · Cloud deployments
+
+#### 🧩 Selected projects
+- **[Kakehashi](https://kakehashi-app.vercel.app/)** – Mobile app for learning Japanese by connecting kanji & vocabulary with real-world content  
+- **[Portfolio](https://portego.vercel.app/)** – Personal site and project showcase  
+- **[MiniTorch](https://gitfront.io/r/Portego-00/S9eB8LxGDsBE/Minitorch/)** – Lightweight deep learning framework inspired by PyTorch  
+- **[AI Music Generation](https://colab.research.google.com/drive/1THLRGsQQI4nF3aWHdn7etBdZRwzL5YZW?usp=sharing)** – Generative music models experiment  
+- **VR / AR medical training app** – Interactive application for guided surgical procedures
+
+#### 📫 Get in touch
+- 🌐 https://portego.vercel.app  
+- ✉️ portego16@gmail.com
